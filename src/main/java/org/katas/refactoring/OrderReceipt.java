@@ -15,7 +15,7 @@ public class OrderReceipt {
 
     public String printReceipt() {
         StringBuilder output = new StringBuilder();
-
+//过多的注释，过长的方法
         // print headers
         output.append("======Printing Orders======\n");
 

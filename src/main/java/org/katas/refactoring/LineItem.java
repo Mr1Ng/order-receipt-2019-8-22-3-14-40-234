@@ -1,7 +1,7 @@
 package org.katas.refactoring;
 
 public class LineItem {
-    private String desc;
+    private String desc;  //ÁîÈËÃÔ»óµÄÔİÊ±×Ö¶Î
     private double p;
     private int qty;
 
